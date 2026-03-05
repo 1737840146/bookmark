@@ -17,7 +17,7 @@ export default function IntegrationsSection() {
   const { t } = useSiteI18n()
   return (
     <section>
-      <div className="bg-muted py-24 md:py-32">
+      <div className="bg-muted/30 py-24 md:py-32">
         <div className="mx-auto max-w-5xl px-6">
           <div className="bg-muted/25 group relative mx-auto max-w-[22rem] items-center justify-between space-y-6 [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_70%,transparent_100%)] sm:max-w-md">
             <div
