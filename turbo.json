@@ -9,7 +9,7 @@
     "KV_REST_API_URL",
     "KV_URL",
     "REDIS_URL",
-    "OPENAI_API_KEY" // 若配置了AI相关变量也加上
+    "OPENAI_API_KEY" 
   ],
   "ui": "tui",
   "tasks": {
